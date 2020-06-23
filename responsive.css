@@ -1,9 +1,9 @@
-
+@media (min-width:1001px){
 
 .menu-icon{
   display:none;
 }
-
+}
 
 /* tablet */
 @media (max-width: 1000px) {
