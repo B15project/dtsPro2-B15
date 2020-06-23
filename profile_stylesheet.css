@@ -216,7 +216,7 @@ header {
   position: absolute;
   display: block;
   left: 700px;
-  bottom: -60px;
+  bottom: 60px;
   margin-top: 15px;
   margin-left: 20px;
   text-align: left;
